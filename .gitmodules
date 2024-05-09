@@ -1,0 +1,3 @@
+[submodule "circuits/framework"]
+	path = circuits/framework
+	url = git@bitbucket.org:neuromorphic-utk/framework.git
